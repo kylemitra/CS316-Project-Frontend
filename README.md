@@ -7,11 +7,3 @@
 ### 3. Launch the backend Flask server
 ### Run `$ yarn start-flask`
 ### 4. Open the URL provided to view the current webpage
-
-
-## Flask Development Instructions
-### Work on ./flask/database.py
-### Do all flask work in flask folder
-
-## React Development Instructions
-### All changes should be done to ./src/App.js only
